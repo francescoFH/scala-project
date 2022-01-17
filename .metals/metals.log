@@ -218,3 +218,6 @@
 2022.01.17 17:08:01 INFO  Connected to Build server: Bloop v1.4.12
 2022.01.17 17:08:02 INFO  time: Imported build in 0.2s
 2022.01.17 17:08:13 INFO  time: indexed workspace in 11s
+2022.01.17 17:26:30 INFO  time: evaluated worksheet 'example.worksheet.sc' in 15s
+2022.01.17 17:26:40 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.5s
+2022.01.17 17:26:48 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.97s
